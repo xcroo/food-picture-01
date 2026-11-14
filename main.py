@@ -7,6 +7,7 @@
 # The entry is self-contained: the program only copies the bundled image.
 # Deterministic: the same input always produces the same output file.
 # Verified locally: output is byte-identical to the bundled entry.png.
+# Build session 2026-11-14: authored in a fresh session for food-picture-01.
 import os
 import shutil
 
